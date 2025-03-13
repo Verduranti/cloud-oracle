@@ -1,0 +1,392 @@
+[
+  {
+    "name": "The Fool",
+    "image": "rider-waite/major-00-fool.jpg",
+    "meaning": "New beginnings, spontaneity, adventure"
+  },
+  {
+    "name": "The Magician",
+    "image": "rider-waite/major-01-magician.jpg",
+    "meaning": "Power, skill, resourcefulness"
+  },
+  {
+    "name": "The High Priestess",
+    "image": "rider-waite/major-02-high-priestess.jpg",
+    "meaning": "Intuition, mystery, wisdom"
+  },
+  {
+    "name": "The Empress",
+    "image": "rider-waite/major-03-empress.jpg",
+    "meaning": "Abundance, fertility, nurturing"
+  },
+  {
+    "name": "The Emperor",
+    "image": "rider-waite/major-04-emperor.jpg",
+    "meaning": "Authority, structure, control"
+  },
+  {
+    "name": "The Hierophant",
+    "image": "rider-waite/major-05-hierophant.jpg",
+    "meaning": "Tradition, conformity, spirituality"
+  },
+  {
+    "name": "The Lovers",
+    "image": "rider-waite/major-06-lovers.jpg",
+    "meaning": "Love, partnership, choices"
+  },
+  {
+    "name": "The Chariot",
+    "image": "rider-waite/major-07-chariot.jpg",
+    "meaning": "Victory, determination, willpower"
+  },
+  {
+    "name": "Strength",
+    "image": "rider-waite/major-08-strength.jpg",
+    "meaning": "Courage, patience, inner strength"
+  },
+  {
+    "name": "The Hermit",
+    "image": "rider-waite/major-09-hermit.jpg",
+    "meaning": "Solitude, reflection, inner guidance"
+  },
+  {
+    "name": "Wheel of Fortune",
+    "image": "rider-waite/major-10-wheel-of-fortune.jpg",
+    "meaning": "Cycles, destiny, luck"
+  },
+  {
+    "name": "Justice",
+    "image": "rider-waite/major-11-justice.jpg",
+    "meaning": "Fairness, balance, truth"
+  },
+  {
+    "name": "The Hanged Man",
+    "image": "rider-waite/major-12-hanged-man.jpg",
+    "meaning": "Sacrifice, release, new perspective"
+  },
+  {
+    "name": "Death",
+    "image": "rider-waite/major-13-death.jpg",
+    "meaning": "Transformation, endings, rebirth"
+  },
+  {
+    "name": "Temperance",
+    "image": "rider-waite/major-14-temperance.jpg",
+    "meaning": "Balance, moderation, purpose"
+  },
+  {
+    "name": "The Devil",
+    "image": "rider-waite/major-15-devil.jpg",
+    "meaning": "Temptation, addiction, materialism"
+  },
+  {
+    "name": "The Tower",
+    "image": "rider-waite/major-16-tower.jpg",
+    "meaning": "Sudden change, upheaval, revelation"
+  },
+  {
+    "name": "The Star",
+    "image": "rider-waite/major-17-star.jpg",
+    "meaning": "Hope, inspiration, spiritual guidance"
+  },
+  {
+    "name": "The Moon",
+    "image": "rider-waite/major-18-moon.jpg",
+    "meaning": "Illusion, intuition, subconscious"
+  },
+  {
+    "name": "The Sun",
+    "image": "rider-waite/major-19-sun.jpg",
+    "meaning": "Joy, success, vitality"
+  },
+  {
+    "name": "Judgement",
+    "image": "rider-waite/major-20-judgement.jpg",
+    "meaning": "Rebirth, inner calling, redemption"
+  },
+  {
+    "name": "The World",
+    "image": "rider-waite/major-21-world.jpg",
+    "meaning": "Completion, wholeness, accomplishment"
+  },
+  {
+    "name": "Ace of Cups",
+    "image": "rider-waite/minor-cups-01.jpg",
+    "meaning": "New beginnings in love, emotional potential"
+  },
+  {
+    "name": "Two of Cups",
+    "image": "rider-waite/minor-cups-02.jpg",
+    "meaning": "Partnership, mutual attraction, harmony"
+  },
+  {
+    "name": "Three of Cups",
+    "image": "rider-waite/minor-cups-03.jpg",
+    "meaning": "Celebration, friendship, community"
+  },
+  {
+    "name": "Four of Cups",
+    "image": "rider-waite/minor-cups-04.jpg",
+    "meaning": "Apathy, contemplation, reevaluation"
+  },
+  {
+    "name": "Five of Cups",
+    "image": "rider-waite/minor-cups-05.jpg",
+    "meaning": "Regret, loss, focusing on the negative"
+  },
+  {
+    "name": "Six of Cups",
+    "image": "rider-waite/minor-cups-06.jpg",
+    "meaning": "Nostalgia, childhood memories, joy"
+  },
+  {
+    "name": "Seven of Cups",
+    "image": "rider-waite/minor-cups-07.jpg",
+    "meaning": "Choices, illusions, wishful thinking"
+  },
+  {
+    "name": "Eight of Cups",
+    "image": "rider-waite/minor-cups-08.jpg",
+    "meaning": "Abandonment, emotional withdrawal, change"
+  },
+  {
+    "name": "Nine of Cups",
+    "image": "rider-waite/minor-cups-09.jpg",
+    "meaning": "Contentment, satisfaction, wish fulfillment"
+  },
+  {
+    "name": "Ten of Cups",
+    "image": "rider-waite/minor-cups-10.jpg",
+    "meaning": "Harmony, family, emotional fulfillment"
+  },
+  {
+    "name": "Ace of Pentacles",
+    "image": "rider-waite/minor-pentacles-01.jpg",
+    "meaning": "New beginnings in material or financial matters"
+  },
+  {
+    "name": "Two of Pentacles",
+    "image": "rider-waite/minor-pentacles-02.jpg",
+    "meaning": "Balance, adaptability, juggling responsibilities"
+  },
+  {
+    "name": "Three of Pentacles",
+    "image": "rider-waite/minor-pentacles-03.jpg",
+    "meaning": "Teamwork, collaboration, skill development"
+  },
+  {
+    "name": "Four of Pentacles",
+    "image": "rider-waite/minor-pentacles-04.jpg",
+    "meaning": "Security, stability, holding on too tightly"
+  },
+  {
+    "name": "Five of Pentacles",
+    "image": "rider-waite/minor-pentacles-05.jpg",
+    "meaning": "Poverty, isolation, financial loss"
+  },
+  {
+    "name": "Six of Pentacles",
+    "image": "rider-waite/minor-pentacles-06.jpg",
+    "meaning": "Generosity, sharing, fairness"
+  },
+  {
+    "name": "Seven of Pentacles",
+    "image": "rider-waite/minor-pentacles-07.jpg",
+    "meaning": "Patience, assessment, long-term success"
+  },
+  {
+    "name": "Eight of Pentacles",
+    "image": "rider-waite/minor-pentacles-08.jpg",
+    "meaning": "Work, dedication, mastery"
+  },
+  {
+    "name": "Nine of Pentacles",
+    "image": "rider-waite/minor-pentacles-09.jpg",
+    "meaning": "Self-sufficiency, luxury, independence"
+  },
+  {
+    "name": "Ten of Pentacles",
+    "image": "rider-waite/minor-pentacles-10.jpg",
+    "meaning": "Wealth, family, long-term success"
+  },
+  {
+    "name": "Ace of Swords",
+    "image": "rider-waite/minor-swords-01.jpg",
+    "meaning": "New beginnings in thought, clarity"
+  },
+  {
+    "name": "Two of Swords",
+    "image": "rider-waite/minor-swords-02.jpg",
+    "meaning": "Indecision, choices, blocked emotions"
+  },
+  {
+    "name": "Three of Swords",
+    "image": "rider-waite/minor-swords-03.jpg",
+    "meaning": "Heartbreak, sorrow, emotional pain"
+  },
+  {
+    "name": "Four of Swords",
+    "image": "rider-waite/minor-swords-04.jpg",
+    "meaning": "Rest, recovery, contemplation"
+  },
+  {
+    "name": "Five of Swords",
+    "image": "rider-waite/minor-swords-05.jpg",
+    "meaning": "Conflict, betrayal, competition"
+  },
+  {
+    "name": "Six of Swords",
+    "image": "rider-waite/minor-swords-06.jpg",
+    "meaning": "Transition, moving on, travel"
+  },
+  {
+    "name": "Seven of Swords",
+    "image": "rider-waite/minor-swords-07.jpg",
+    "meaning": "Deception, stealth, strategy"
+  },
+  {
+    "name": "Eight of Swords",
+    "image": "rider-waite/minor-swords-08.jpg",
+    "meaning": "Feeling trapped, limiting beliefs"
+  },
+  {
+    "name": "Nine of Swords",
+    "image": "rider-waite/minor-swords-09.jpg",
+    "meaning": "Anxiety, fear, nightmares"
+  },
+  {
+    "name": "Ten of Swords",
+    "image": "rider-waite/minor-swords-10.jpg",
+    "meaning": "Betrayal, painful endings, loss"
+  },
+  {
+    "name": "Ace of Wands",
+    "image": "rider-waite/minor-wands-01.jpg",
+    "meaning": "New beginnings in creativity, inspiration"
+  },
+  {
+    "name": "Two of Wands",
+    "image": "rider-waite/minor-wands-02.jpg",
+    "meaning": "Planning, future vision, decisions"
+  },
+  {
+    "name": "Three of Wands",
+    "image": "rider-waite/minor-wands-03.jpg",
+    "meaning": "Expansion, progress, waiting for results"
+  },
+  {
+    "name": "Four of Wands",
+    "image": "rider-waite/minor-wands-04.jpg",
+    "meaning": "Celebration, stability, home"
+  },
+  {
+    "name": "Five of Wands",
+    "image": "rider-waite/minor-wands-05.jpg",
+    "meaning": "Conflict, competition, challenge"
+  },
+  {
+    "name": "Six of Wands",
+    "image": "rider-waite/minor-wands-06.jpg",
+    "meaning": "Victory, recognition, success"
+  },
+  {
+    "name": "Seven of Wands",
+    "image": "rider-waite/minor-wands-07.jpg",
+    "meaning": "Defending your position, competition"
+  },
+  {
+    "name": "Eight of Wands",
+    "image": "rider-waite/minor-wands-08.jpg",
+    "meaning": "Speed, action, progress"
+  },
+  {
+    "name": "Nine of Wands",
+    "image": "rider-waite/minor-wands-09.jpg",
+    "meaning": "Perseverance, resilience, guarded"
+  },
+  {
+    "name": "Ten of Wands",
+    "image": "rider-waite/minor-wands-10.jpg",
+    "meaning": "Burden, responsibility, stress"
+  },
+  {
+    "name": "King of Cups",
+    "image": "rider-waite/minor-cups-14.jpg",
+    "meaning": "Emotional balance, diplomacy, compassion"
+  },
+  {
+    "name": "Queen of Cups",
+    "image": "rider-waite/minor-cups-13.jpg",
+    "meaning": "Emotional maturity, intuition, nurturing"
+  },
+  {
+    "name": "Knight of Cups",
+    "image": "rider-waite/minor-cups-12.jpg",
+    "meaning": "Romantic, idealistic, following the heart"
+  },
+  {
+    "name": "Page of Cups",
+    "image": "rider-waite/minor-cups-11.jpg",
+    "meaning": "Creative beginnings, intuition, messages of love"
+  },
+  {
+    "name": "King of Pentacles",
+    "image": "rider-waite/minor-pentacles-14.jpg",
+    "meaning": "Wealth, stability, security, business acumen"
+  },
+  {
+    "name": "Queen of Pentacles",
+    "image": "rider-waite/minor-pentacles-13.jpg",
+    "meaning": "Nurturing, practicality, financial security"
+  },
+  {
+    "name": "Knight of Pentacles",
+    "image": "rider-waite/minor-pentacles-12.jpg",
+    "meaning": "Hard work, responsibility, methodical progress"
+  },
+  {
+    "name": "Page of Pentacles",
+    "image": "rider-waite/minor-pentacles-11.jpg",
+    "meaning": "New beginnings in material pursuits, ambition"
+  },
+  {
+    "name": "King of Swords",
+    "image": "rider-waite/minor-swords-14.jpg",
+    "meaning": "Intellect, authority, clarity, decision-making"
+  },
+  {
+    "name": "Queen of Swords",
+    "image": "rider-waite/minor-swords-13.jpg",
+    "meaning": "Clear thinking, independence, truth-seeking"
+  },
+  {
+    "name": "Knight of Swords",
+    "image": "rider-waite/minor-swords-12.jpg",
+    "meaning": "Action, decisiveness, fast-moving energy"
+  },
+  {
+    "name": "Page of Swords",
+    "image": "rider-waite/minor-swords-11.jpg",
+    "meaning": "Curiosity, new ideas, alertness"
+  },
+  {
+    "name": "King of Wands",
+    "image": "rider-waite/minor-wands-14.jpg",
+    "meaning": "Leadership, vision, courage, entrepreneurial spirit"
+  },
+  {
+    "name": "Queen of Wands",
+    "image": "rider-waite/minor-wands-13.jpg",
+    "meaning": "Confidence, creativity, passion, determination"
+  },
+  {
+    "name": "Knight of Wands",
+    "image": "rider-waite/minor-wands-12.jpg",
+    "meaning": "Adventure, risk-taking, impulsiveness"
+  },
+  {
+    "name": "Page of Wands",
+    "image": "rider-waite/minor-wands-11.jpg",
+    "meaning": "Inspiration, new opportunities, excitement"
+  }
+]
